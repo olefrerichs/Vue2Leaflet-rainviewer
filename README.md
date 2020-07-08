@@ -1,2 +1,2 @@
-# Vue2Leaflet implementation with rainviewer.org and OpenStreetMap
+# Vue2Leaflet with rainviewer.org and OpenStreetMap
 
